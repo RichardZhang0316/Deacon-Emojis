@@ -10,5 +10,6 @@ At Deacon Emojis, you could...
 - Share Deacon stickers to other social medias, such as Instagram, WeChats, etc.
 - Get a new sticker package in you iMessage for daily chat
 - 📠 If you want upload your self-created stickers, please contact us!
+- 📮 WFUAppDev@outlook.com
 
 ![alt text](https://s2.loli.net/2022/05/01/yQ4uJnzKgAOmh7j.png)
